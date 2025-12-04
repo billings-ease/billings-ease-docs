@@ -1,0 +1,21 @@
+title: Billings Ease - Documentação
+description: Documentação completa da plataforma Billings Ease
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Configurações do tema
+minima:
+  social_links:
+    github: # seu-usuario-github
+
+# Configurações gerais
+# Para organização: https://billings-ease.github.io/billings-ease-docs/
+url: https://billings-ease.github.io
+baseurl: /billings-ease-docs
+
+# Navegação
+header_pages:
+  - README.md
+
