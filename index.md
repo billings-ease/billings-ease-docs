@@ -158,11 +158,11 @@ billings-ease/
 
 ## 📝 Licença
 
-[Adicione informações sobre a licença do projeto]
+Este projeto e sua documentação são de propriedade privada. Todos os direitos reservados.
 
-## 👥 Contribuindo
+© 2024 Billings Ease. Todos os direitos reservados.
 
-[Adicione informações sobre como contribuir com o projeto]
+Este software e sua documentação são confidenciais e proprietários. É proibida a reprodução, distribuição ou uso não autorizado sem permissão expressa.
 
 ---
 

@@ -24,12 +24,6 @@ docs/
             └── pacient/       # Área do paciente/cliente
 ```
 
-## 🚀 Como Contribuir
-
-1. Faça suas alterações nos arquivos Markdown
-2. Commit e push para o repositório
-3. O GitHub Pages atualiza automaticamente
-
 ## 📸 Screenshots
 
 Este repositório contém 25 screenshots da aplicação web, organizadas por:
@@ -46,7 +40,11 @@ Este repositório contém 25 screenshots da aplicação web, organizadas por:
 
 ## 📝 Licença
 
-[Adicione informações sobre a licença]
+Este projeto e sua documentação são de propriedade privada. Todos os direitos reservados.
+
+© 2024 Billings Ease. Todos os direitos reservados.
+
+Este software e sua documentação são confidenciais e proprietários. É proibida a reprodução, distribuição ou uso não autorizado sem permissão expressa.
 
 ---
 
